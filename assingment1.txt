@@ -1,4 +1,4 @@
-1.hat is HTML?
+1.what is HTML?
 Answer 1:-Html stands for hyper text markup language ,it is used to create a webpages or websites.
           In html "hyper text" stands for the text that takes you to another web pages, and "markup" used for define the contents and "language" stands for set of rules . 
 
