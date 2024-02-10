@@ -1,1 +1,19 @@
+1.hat is HTML?
+Answer 1:-Html stands for hyper text markup language ,it is used to create a webpages or websites.
+          In html "hyper text" stands for the text that takes you to another web pages, and "markup" used for define the contents and "language" stands for set of rules . 
 
+2.What is CSS?
+Answer 2:- CSS (Cascading Style Sheets) allows you to create great-looking web pages.CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
+
+3.What is the difference between front-end and back-end development?
+Answer 3:- front-end:-The front end of a website or application refers to everything the user can see. Front-end developers often work directly with the client to create visual and interactive elements that work 
+                      user.
+           back-end :-back-end developers work on the parts of a website or application that users cannot see. They operate behind the scenes, making sure servers and databases function smoothly and quickly. Front- 
+                     end interaction only works because a server, application, or database written in code provides the information the visitor seeks.
+
+4.What is JavaScript?
+Answer 4:-JavaScript is a programming language that adds dynamic functionality and complex features like interactivity and animation to web pages. Together with HTML and CSS, JavaScript forms the foundation of web 
+          development.
+
+5.What is a responsive web design?
+Answer 5:-Responsive web design refers to designing websites to adapt to a user's device. The goal is for a website to retain its optimal usability and appearance regardless of the device it's displayed on. Responsive web design responds to user needs by adapting to different screen sizes, orientations, layouts, and platforms. This is accomplished with the use of flexible grids and layouts, responsive images, and CSS media queries.  
